@@ -1,5 +1,5 @@
 ![GYM FITNESS (Banner (Landscape)) (1)](https://github.com/user-attachments/assets/42b6e915-2f20-46b3-8fcc-4abf2a2b44af)
-#  ![pesa (1)](https://github.com/user-attachments/assets/5f27beff-df77-441d-ab19-8f0143d94e17) Gym-basic-system(BACK)
+#  ![c (1)](https://github.com/user-attachments/assets/7e515e7e-9318-41f7-8a54-897f458f0979) Gym-basic-system(BACK)
 > Desktop application created with Java,PosgreSQL,Springboot,Servlets,Xchart for to provide support in a gym system.
 > Interface with all the necessary business features.
 >
